@@ -3,6 +3,7 @@
 A feature-rich task management application built with the **Next.js App Router**. 
 This project demonstrates a modern frontend architecture using server-centric components, client-side state management with React Hooks, and a suite of advanced user-facing features.
 
+Deployed to Vercel [here](https://task-manager-next-js-practice.vercel.app/)
 ---
 
 ##  Index
